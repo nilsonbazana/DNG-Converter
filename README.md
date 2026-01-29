@@ -24,3 +24,5 @@ When running external binaries like `dnglab` directly from the XnViewMP `.deb` i
    Save the script as `convert_dng.sh` in your home folder and make it executable:
    ```bash
    chmod +x ~/convert_dng.sh
+2. **Customize your paths**
+It's all set for my own user. Adjust paths/user to your own.
